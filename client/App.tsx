@@ -11,6 +11,7 @@ import Index from "./pages/Index";
 import Play from "./pages/Play";
 import Leaderboard from "./pages/Leaderboard";
 import Missions from "./pages/Missions";
+import Shop from "./pages/Shop";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
 
