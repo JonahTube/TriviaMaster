@@ -29,6 +29,7 @@ const AppContent = () => {
         <Route path="/play" element={<Play />} />
         <Route path="/leaderboard" element={<Leaderboard />} />
         <Route path="/missions" element={<Missions />} />
+        <Route path="/shop" element={<Shop />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
