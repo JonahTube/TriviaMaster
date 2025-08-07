@@ -13,6 +13,7 @@ export default function Navigation() {
     { href: '/play', label: 'Play', icon: Play },
     { href: '/leaderboard', label: 'Leaderboard', icon: Trophy },
     { href: '/missions', label: 'Missions', icon: Target },
+    { href: '/shop', label: 'Shop', icon: ShoppingCart },
     { href: '/profile', label: 'Profile', icon: User }
   ];
 
